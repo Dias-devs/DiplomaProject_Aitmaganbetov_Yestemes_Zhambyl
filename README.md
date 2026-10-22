@@ -1,0 +1,1 @@
+# DiplomaProject_Aitmaganbetov_Yestemes_Zhambyl
