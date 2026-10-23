@@ -1,0 +1,19 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+**/build/
+
+# Node.js
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+coverage/
+
+# Logs and local secrets
+*.log
+.env
+.env.*
+!.env.example
